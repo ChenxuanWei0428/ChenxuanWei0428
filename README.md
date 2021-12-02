@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chenxuan Wei
-- ✨ I am currently a Honour Math Student at University of Waterloo 
+- ✨ I am currently a Combinatorics and Optimization Student at University of Waterloo 
 - 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to practice on develop projects and apps, and coop for 2021 Fall term
+- 💞️ I’m looking to practice on develop projects and apps.
 - 📫 If you want to reach me, please contract me via discord Austinininin#5185 or wechat number cz136438
 
 <!---
